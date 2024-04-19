@@ -1,0 +1,19 @@
+body {
+  font-family: "Exo 2", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+.card-text{
+  text-align: justify;
+}
+.card-body{
+  padding: 3% 4% 2% 4%;
+}
+.me-2{
+  margin-top: -2px;
+}
+.card-title{
+  font-size: 1.5rem;
+  font-weight: 600;
+}
